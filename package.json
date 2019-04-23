@@ -1,0 +1,17 @@
+{
+  "name": "service-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverTest.js",
+  "scripts": {
+    "dev": "nodemon serverTest.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
